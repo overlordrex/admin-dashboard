@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//:overlordrex.github.io/admin-dashboard/static/css/main.1a7f6c12.css",
+    "main.js": "/http//:overlordrex.github.io/admin-dashboard/static/js/main.237dc4ef.js",
+    "index.html": "/http//:overlordrex.github.io/admin-dashboard/index.html",
+    "main.1a7f6c12.css.map": "/http//:overlordrex.github.io/admin-dashboard/static/css/main.1a7f6c12.css.map",
+    "main.237dc4ef.js.map": "/http//:overlordrex.github.io/admin-dashboard/static/js/main.237dc4ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a7f6c12.css",
+    "static/js/main.237dc4ef.js"
+  ]
+}
